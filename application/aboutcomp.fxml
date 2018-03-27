@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TextArea layoutX="76.0" layoutY="100.0" nodeOrientation="LEFT_TO_RIGHT" opacity="0.91" prefHeight="200.0" prefWidth="440.0" text="I own a complex feeling about COMP3046 (Advanced Programming),&#10; whch is both make love and coonfused. I really learn a lot from this course.&#10;and the assigment and the test make me confusing. But if there is a second &#10;chance I will also choose to learn this course. Because gaining is often paining,&#10;and Joe are always patient to us, the design of this course are also reasonable.&#10;&#10;&#10; " />
+      <Label layoutX="83.0" layoutY="36.0" prefHeight="44.0" prefWidth="187.0" text="About comp3046">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <Button layoutX="83.0" layoutY="337.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="78.0" text="Ok" />
+   </children>
+</Pane>
